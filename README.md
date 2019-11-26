@@ -1,2 +1,2 @@
-# tetris
-java implementation of tetris arcade game
+# alienAttack
+java implementation of Alien Attack arcade game
